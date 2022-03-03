@@ -27,7 +27,7 @@ In this assignment, we will use deep learning recurrent neural networks to model
 
 
 ### Prepare the data for training and testing
-![prepared data](images/prepare_data.png)
+![prepared data](images/prepare_data.PNG)
 
 
 Apply a MinMaxScaler to the X and y values to scale the data for the model
@@ -67,7 +67,7 @@ we will need to:
 4-Plot the Real vs predicted values as a line chart
 
 
-![evaluate model](images/evaluate_model_n1.png)
+![evaluate model](images/evaluate_model_n1.PNG)
 
 - - -  
 
@@ -75,7 +75,7 @@ we will need to:
 
 ### Data Preparation
 
-![prepared data ](images/prepared_data_n2.png)
+![prepared data ](images/prepared_data_n2.PNG)
 
 ## Build and Train the LSTM RNN
 
@@ -89,9 +89,9 @@ we will need to:
 
 3-Fit the model to the training data
 
-![train model ](images/train_model_n2.png)
+![train model ](images/train_model_n2.PNG)
 
-![train model ](images/train_2_n2.png)
+![train model ](images/train_2_n2.PNG)
 
 
 ## Model Performance
@@ -108,7 +108,7 @@ we  will need to:
 
 
 
-![evaluate model ](images/evaluate_2_n2.png)
+![evaluate model ](images/evaluate_2_n2.PNG)
 
 
 
